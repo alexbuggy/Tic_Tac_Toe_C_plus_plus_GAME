@@ -8,3 +8,7 @@ This is a simple Tic Tac Toe game implemented in C++. The game is designed to be
 - Two-player gameplay
 - Simple console interface
 - Hardcoded logic to handle all possible game outcomes
+
+
+## Set-up
+- Inside the **Release** folder there is the tictactoe.exe executable file.
